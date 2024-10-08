@@ -1,6 +1,6 @@
 {
 	"name": "hadith",
-	"version": "1.0.0",
+	"version": "0.0.1",
 	"description": "JavaScript Library for Hadith",
 	"main": "index.js",
 	"scripts": {

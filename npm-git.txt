@@ -1,7 +1,0 @@
-npm
-"name": "hadith"
-"publishConfig" : {"registry": "https://registry.npmjs.org/"}
-
-github
-"name": "@anuragpoolakkal/hadith"
-"publishConfig" : {"registry": "https://npm.pkg.github.com/anuragp"}

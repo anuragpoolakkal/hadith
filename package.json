@@ -1,0 +1,33 @@
+{
+	"name": "hadith",
+	"version": "1.0.0",
+	"description": "JavaScript Library for Hadith",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/anuragpoolakkal/hadith.git"
+	},
+	"keywords": [
+		"hadith",
+		"islam",
+		"muslim",
+		"quran",
+		"sunnah",
+		"abudawud",
+		"bukhari",
+		"ibnmajah",
+		"malik",
+		"muslim",
+		"nasai",
+		"tirmidhi"
+	],
+	"author": "anuragpoolakkal",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/anuragpoolakkal/hadith/issues"
+	},
+	"homepage": "https://github.com/anuragpoolakkal/hadith#readme"
+}

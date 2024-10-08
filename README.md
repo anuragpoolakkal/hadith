@@ -1,4 +1,4 @@
-
+[![npm package](https://img.shields.io/npm/v/hadith.svg)](https://www.npmjs.com/package/hadith)
 
 # Hadith
 

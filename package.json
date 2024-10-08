@@ -3,6 +3,7 @@
 	"version": "0.0.1",
 	"description": "JavaScript Library for Hadith",
 	"main": "index.js",
+	"type": "module",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
@@ -24,8 +25,10 @@
 		"nasai",
 		"tirmidhi"
 	],
-	"author": "anuragpoolakkal",
-	"license": "ISC",
+	"license": "MIT",
+	"publishConfig": {
+		"registry": "https://registry.npmjs.org/"
+	},
 	"bugs": {
 		"url": "https://github.com/anuragpoolakkal/hadith/issues"
 	},

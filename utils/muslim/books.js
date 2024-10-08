@@ -1,4 +1,4 @@
-const muslimBooks = [
+export const muslimBooks = [
   {
     "bookNumber": "introduction",
     "book": [
